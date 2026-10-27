@@ -1,0 +1,19 @@
+{
+  "ollama_url": "http://127.0.0.1:11434",
+  "model": "qwen2.5:3b",
+  "history_turns": 6,
+  "timeout_seconds": 180,
+  "chats": [
+    {
+      "name": "YY",
+      "type": "group"
+    }
+  ],
+  "soul_file": "SOUL.md",
+  "birthdays": {
+    "file": "SOUL.md",
+    "state_file": "../data/birthday_state.json",
+    "chat": "YY"
+  },
+  "discover_chats": true
+}

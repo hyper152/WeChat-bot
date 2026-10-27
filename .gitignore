@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.downloads/
+/config/config.json
+/data/birthday_state.json
+wxauto_logs/
+/data/wxbot.lock
+/WeChat/
+/config/SOUL.md
+/data/birthdays.txt
